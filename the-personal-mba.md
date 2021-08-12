@@ -16,6 +16,10 @@
 
 ## Value Creation
 
+| Concept | Definition | Purpose | Application |
+| --- | --- | --- | --- |
+| Five parts of every business | Value creation, Marketing, Sales, Value delivery, Finance | For a business to function well, one must coordinate all parts of it | When building a business, consider strategizing in this order |
+
 ## Marketing
 
 ## Sales
